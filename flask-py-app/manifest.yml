@@ -1,0 +1,7 @@
+applications:
+ - name: flask-app
+   memory: 256M
+   disk_quota: 2G
+   health-check-type: process
+   random-route: true
+ 
