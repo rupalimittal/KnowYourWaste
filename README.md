@@ -41,8 +41,10 @@ https://www.youtube.com/watch?v=uALlrOFO8B0
 Please refer the presentation for detailed architecture:
 
 
-[knowYourWaste.pptx](https://github.com/Navneetkum/Wit-hackathon-knowyourwaste/files/6975299/knowYourWaste.pptx)
+Preview attachment KnowYourWaste.pptx
 
+KnowYourWaste.pptx
+3.8 MB
 
 
 
